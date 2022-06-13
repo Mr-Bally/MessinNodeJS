@@ -12,3 +12,4 @@ server.listen(4242, () => {
 });
 
 // Navigate to http://localhost:4242/ to test
+// Ecmascript is the specification which JavaScript adheres to
